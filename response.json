@@ -1,0 +1,49 @@
+{
+    "name": "kumar",
+    "age": "24",
+    "address": "chennai",
+    "buy": {
+        "items": [
+            {
+                "id": "1",
+                "item": "car"
+            },
+            {
+                "id": "2",
+                "item": "bus"
+            },
+            {
+                "id": "3",
+                "item": "train"
+            },
+            {
+                "id": "4",
+                "item": "flight"
+            }
+        ]
+    },
+    "sell": {
+        "product": [
+            {
+                "id": 1,
+                "product": "soap"
+            },
+            {
+                "id": 2,
+                "product": "paste"
+            },
+            {
+                "id": 3,
+                "product": "brush"
+            },
+            {
+                "id": 4,
+                "product": "dal"
+            },
+            {
+                "id": 5,
+                "product": "rice"
+            }
+        ]
+    }
+}
