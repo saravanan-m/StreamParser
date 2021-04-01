@@ -1,7 +1,4 @@
 {
-    "name": "kumar",
-    "age": "24",
-    "address": "chennai",
     "buy": {
         "items": [
             {
@@ -26,23 +23,23 @@
         "product": [
             {
                 "id": 1,
-                "product": "soap"
+                "product": "computer"
             },
             {
                 "id": 2,
-                "product": "paste"
+                "product": "mouse"
             },
             {
                 "id": 3,
-                "product": "brush"
+                "product": "keyboard"
             },
             {
                 "id": 4,
-                "product": "dal"
+                "product": "speaker"
             },
             {
                 "id": 5,
-                "product": "rice"
+                "product": "monitor"
             }
         ]
     }
