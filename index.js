@@ -141,5 +141,5 @@ app.get('/stream_double_path', function (req, res) {
 })
 
 app.listen(8080, '0.0.0.0', function () {
-    console.log('Example app listening on port 8080!');
+    console.log('Stream app listening on port 8080!');
 });
